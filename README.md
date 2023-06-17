@@ -1,4 +1,5 @@
-<img width="309" alt="image" src="https://github.com/imymemineyay/Mini-Project-4/assets/117002193/ed5236ae-f7eb-42bd-87f9-9e404fd76db9">
+![image](https://github.com/imymemineyay/Mini-Project-4/assets/117002193/c93eddbc-9c84-4c93-ba97-1cb0370a0fc3)
+
 
 
 
