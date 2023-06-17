@@ -3,7 +3,7 @@
 (이미지 출처 : https://images.app.goo.gl/Zd1zsw6ujQ68jHoE8)
 
 
-# Mini-Project-4
+# ⛑️ Mini-Project-4 ⛑️
 
 YOLOv3를 활용한 Helmet Detection 프로젝트<br>
 YOLOv3를 활용해 객체 탐지 모델 만들기<br>
