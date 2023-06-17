@@ -12,7 +12,7 @@ YOLOv3를 활용한 Helmet Detection 프로젝트
 
 ## Process
 
-Roboflow를 활용한 이미지 전처리
+Roboflow를 활용한 이미지 전처리 <br>
 YOLOv3 darknet을 활용한 객체 탐지
 
 <hr>
