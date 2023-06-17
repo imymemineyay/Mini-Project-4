@@ -5,7 +5,9 @@
 
 # Mini-Project-4
 
-YOLOv3를 활용한 Helmet Detection 프로젝트
+YOLOv3를 활용한 Helmet Detection 프로젝트<br>
+YOLOv3를 활용해 객체 탐지 모델 만들기<br>
+Flask 를 통한 웹 개발
 
 
 <hr>
@@ -13,7 +15,8 @@ YOLOv3를 활용한 Helmet Detection 프로젝트
 ## Process
 
 Roboflow를 활용한 이미지 전처리 <br>
-YOLOv3 darknet을 활용한 객체 탐지
+YOLOv3 darknet을 활용한 객체 탐지<br>
+Flask를 활용한 웹 개발 및 모델 부착 
 
 <hr>
 
